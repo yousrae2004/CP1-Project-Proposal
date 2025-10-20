@@ -15,4 +15,4 @@ Players can control their character around freely, exploring each scene and pick
 **Conceptual Mock-Up**
 Below is an example of what the first scene would look like as soon as you step out of the house and start exploring, before encountering any characters and puzzles. This is when the cat is chasing the butterfly. 
 
-![CatGameMockup](https://github.com/user-attachments/assets/e473b996-e45e-4a3d-a611-4ba342c09525)
+![CatGameMockup](https://github.com/user-attachments/assets/b529a994-75b1-4d93-bbc6-b58657e8ac94)
