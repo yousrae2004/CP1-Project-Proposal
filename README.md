@@ -1,9 +1,9 @@
-#Project Proposal
+# Project Proposal
 
-##Elevator Pitch
+## Elevator Pitch
 Have you ever wanted to explore the world as a curious cat, venturing into a brand new scenery outside your usual home? A Cat's Quest is a cozy top-down game where you can adventure through town by solving puzzles, completing quests, and meeting fellow cat-friends.
 
-##Game Synopsis
+## Game Synopsis
 You find a butterfly flying, chasing after it until… You realize you can’t find your way back. Lost in an unfamiliar town, you can explore, complete various quests, and solve puzzles to level up. Instead of combat, this game focuses on a cozy vibe by interacting with other cats and progressing through the story by completing quests. The storyline involves moving into a new town and being outside for the first time, having to explore your new environment.
 
 **Objective**
